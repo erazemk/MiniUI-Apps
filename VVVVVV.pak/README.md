@@ -35,7 +35,7 @@ Save files are stored in `Tools/VVVVVV.pak/.vvvvvv/saves`.
 2. Extract the archive, find the `vvvvvv` directory and rename it to `VVVVVV.pak`
 3. Delete all the files from the directory except `libSDL-1.2.so.0` and `vvv_sdl12`
 4. Add the `launch.sh` file from this repository
-(https://raw.githubusercontent.com/erazemk/MiniUI-Apps/main/VVVVVV/launch.sh)
+(https://raw.githubusercontent.com/erazemk/MiniUI-Apps/main/VVVVVV.pak/launch.sh)
 5. Download latest VVVVVV data files for Linux: https://thelettervsixtim.es/makeandplay/
 (or get your own from GOG or Steam)
 6. Find `data.zip` in the extracted game directory and move it into `VVVVVV.pak`

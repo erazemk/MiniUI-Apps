@@ -6,4 +6,5 @@ a custom launcher for the Miyoo Mini.
 ## Apps
 
 - [Gmu](Gmu.pak)
+- [Parasyte](Parasyte.pak)
 - [VVVVVV](VVVVVV.pak)

@@ -8,4 +8,5 @@ a custom launcher for the Miyoo Mini.
 - [2048](2048.pak)
 - [Gmu](Gmu.pak)
 - [Parasyte](Parasyte.pak)
+- [Super Mario 64](SuperMario64.pak)
 - [VVVVVV](VVVVVV.pak)

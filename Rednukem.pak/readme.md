@@ -1,4 +1,4 @@
-# MiniUI Apps - NBlood
+# MiniUI Apps - Rednukem
 
 This is a port of nukeykt's Rednukem, a wrapper for the game Duke Nukem (and others), repacked for MiniUI. 
 

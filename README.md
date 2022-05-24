@@ -10,3 +10,6 @@ a custom launcher for the Miyoo Mini.
 - [Parasyte](Parasyte.pak)
 - [Super Mario 64](SuperMario64.pak)
 - [VVVVVV](VVVVVV.pak)
+- [Rednukem](Rednukem.pak)
+- [NBlood](NBlood.pak)
+- [VoidSW](VoidSW.pak)

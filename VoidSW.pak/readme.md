@@ -20,7 +20,7 @@ Save files are stored in `Tools/VoidSW.pak/`.
 
 1. Download the latest version from Github: https://github.com/erazemk/MiniUI-Apps/releases
 2. Extract the archive.
-3. Copy the following files from the original game folder (i.e. from the GOG or Steam version) to the `VoidSW.pak` folder:
+3. Copy the following files from the **original game folder** (i.e. from the GOG or Steam version) to the `VoidSW.pak` folder:
 
    - SW.GRP
    - SW.RTS 
